@@ -1,6 +1,6 @@
 /*
  *  JLMMatrixLibrary.cpp
- *  TeapotToy
+ *  HelloTeapot
  *
  *  Created by turner on 6/8/09.
  *  Copyright 2009 Douglass Turner Consulting. All rights reserved.

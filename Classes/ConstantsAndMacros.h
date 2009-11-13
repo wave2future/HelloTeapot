@@ -1,6 +1,6 @@
 //
-// TeapotToyconstants.h
-//  TeapotToy
+// ConstantsAndMacros.h
+//  HelloTeapot
 //
 //  Created by turner on 5/4/09.
 //  Copyright Douglass Turner Consulting 2009. All rights reserved.

@@ -1,6 +1,6 @@
 //
 //  GLView.h
-//  HelloTexture
+//  HelloTeapot
 //
 //  Created by turner on 5/26/09.
 //  Copyright Douglass Turner Consulting 2009. All rights reserved.

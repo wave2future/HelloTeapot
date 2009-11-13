@@ -1,3 +1,11 @@
+//
+//  JLMMatrixLibrary.h
+//  HelloTeapot
+//
+//  Created by turner on 4/30/09.
+//  Copyright 2009 Douglass Turner Consulting. All rights reserved.
+//
+
 #ifndef _JLM_MATRIX_LIBRARY_
 #define _JLM_MATRIX_LIBRARY_
 

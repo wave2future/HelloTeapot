@@ -81,8 +81,8 @@
 				31214A2F10A9CB3600A30A9A /* BoundingBox.m */,
 				31214A3610A9CB3600A30A9A /* JLMMatrixLibrary.h */,
 				31214A3510A9CB3600A30A9A /* JLMMatrixLibrary.cpp */,
-				31214A3910A9CB3600A30A9A /* VectorMatrix.cpp */,
 				31214A3A10A9CB3600A30A9A /* VectorMatrix.h */,
+				31214A3910A9CB3600A30A9A /* VectorMatrix.cpp */,
 			);
 			path = Classes;
 			sourceTree = "<group>";

@@ -1,6 +1,6 @@
 //
 //  BoundingBox.m
-//  HelloOpenGL
+//  HelloTeapot
 //
 //  Created by turner on 4/30/09.
 //  Copyright 2009 Douglass Turner Consulting. All rights reserved.

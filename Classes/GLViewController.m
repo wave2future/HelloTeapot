@@ -1,6 +1,6 @@
 //
 //  GLViewController.h
-//  HelloOpenGL
+//  HelloTeapot
 //
 //  Created by turner on 4/30/09.
 //  Copyright Douglass Turner Consulting 2009. All rights reserved.
@@ -388,7 +388,7 @@ static float angle = 0.0;
 	glLightfv(GL_LIGHT2, GL_POSITION, blueLightPosition);
 	
 	// Inspect the current transform
-	GLfloat crapola[16];
+//	GLfloat crapola[16];
 //	glGetFloatv(GL_MODELVIEW_MATRIX, crapola);
 	
 	glPushMatrix();
